@@ -1,0 +1,2 @@
+[22-Apr-2021 03:40:20 UTC] PHP Notice:  Undefined variable: numbers in /home3/iamjada1/public_html/328/pp2/functions.php on line 15
+[22-Apr-2021 03:40:20 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home3/iamjada1/public_html/328/pp2/functions.php on line 8
