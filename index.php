@@ -31,7 +31,19 @@ echo "<h2>Pair Program 2</h2>"
 echo "PHP Array Practice";
 echo "<br>" . "<br>";
 $numbers = array(7, 9, 8, 9, 8, 8 ,6);
+
+//prints the array one item per line
 echo printArray($numbers);
+
+echo '<br>';
+
+// print the largest number in the array
+echo "The largest number is ". largest( $numbers);
+
+echo '<br>';
+
+// prints the array after removing duplicate numbers
+echo removeDups($numbers);
 
 ?>
 
